@@ -21,6 +21,7 @@
 		DD1636DC208ADDBF008CDBD8 /* PhotoPickerManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1636DB208ADDBF008CDBD8 /* PhotoPickerManager.swift */; };
 		DD1636DE208AF18D008CDBD8 /* PhotoPageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1636DD208AF18D008CDBD8 /* PhotoPageController.swift */; };
 		DD1636E0208AF2DB008CDBD8 /* PhotoViewerController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1636DF208AF2DB008CDBD8 /* PhotoViewerController.swift */; };
+		DD1636E2208B2591008CDBD8 /* PhotoZoomController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1636E1208B2591008CDBD8 /* PhotoZoomController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		DD1636DB208ADDBF008CDBD8 /* PhotoPickerManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPickerManager.swift; sourceTree = "<group>"; };
 		DD1636DD208AF18D008CDBD8 /* PhotoPageController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoPageController.swift; sourceTree = "<group>"; };
 		DD1636DF208AF2DB008CDBD8 /* PhotoViewerController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewerController.swift; sourceTree = "<group>"; };
+		DD1636E1208B2591008CDBD8 /* PhotoZoomController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoZoomController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				DD1636DB208ADDBF008CDBD8 /* PhotoPickerManager.swift */,
 				DD1636DD208AF18D008CDBD8 /* PhotoPageController.swift */,
 				DD1636DF208AF2DB008CDBD8 /* PhotoViewerController.swift */,
+				DD1636E1208B2591008CDBD8 /* PhotoZoomController.swift */,
 			);
 			path = ImageViewer;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				DD1636DC208ADDBF008CDBD8 /* PhotoPickerManager.swift in Sources */,
 				97C5209D1F7B403C005642A3 /* Photo.swift in Sources */,
 				97C520931F7B3E31005642A3 /* CoreDataStack.swift in Sources */,
+				DD1636E2208B2591008CDBD8 /* PhotoZoomController.swift in Sources */,
 				DD1636E0208AF2DB008CDBD8 /* PhotoViewerController.swift in Sources */,
 				97C5209B1F7B4020005642A3 /* ImageViewer.xcdatamodeld in Sources */,
 				97C520981F7B3FBD005642A3 /* PhotoCell.swift in Sources */,
